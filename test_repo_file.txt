@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 #hello
 
 #hi
+=======
+
+
+
+#hi
+>>>>>>> de029cf0a3ea5b1927efc89c1878e1c0fbd184ae
